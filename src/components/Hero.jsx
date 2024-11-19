@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants"
-import profilePic from "../assets/kevinRushProfile.png";
+import profilePic from "../assets/vidu1.png";
 import { motion } from "framer-motion";
 
 const Hero = () => {
@@ -27,7 +27,7 @@ const Hero = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.5, delay: 0.4 }}
                     >
-                        Full Stack Developer
+                       Data Science Student | Full Stack Developer
                     </motion.span>
                     <motion.p 
                         className="my-2 max-w-xl py-6 font-light tracking-tighter"
@@ -45,7 +45,7 @@ const Hero = () => {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ duration: 0.8 }}
             >
-                <div className="flex justify-center">
+                <div className="flex justify-center ">
                     <motion.img 
                         src={profilePic} 
                         alt="Vidura Rathnayaka"
