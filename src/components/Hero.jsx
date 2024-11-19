@@ -49,6 +49,7 @@ const Hero = () => {
                     <motion.img 
                         src={profilePic} 
                         alt="Vidura Rathnayaka"
+                        className="w-[500px] lg:w-[600px]"
                         initial={{ scale: 0.8, opacity: 0 }}
                         animate={{ scale: 1, opacity: 1 }}
                         transition={{ duration: 0.5, delay: 0.8 }}

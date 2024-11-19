@@ -3,7 +3,11 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Hello, I’m Vidura a passionate Full Stack Developer with 2 years of experience crafting robust, user-centric web applications Pos Systems. Combining creativity with technical expertise, I specialize in technologies like React, Next.js, Node.js, and databases including MySQL, PostgreSQL, and MongoDB.My mission is to create scalable, innovative solutions that not only drive business growth but also elevate user experiences to new heights. I'm constantly exploring the latest trends in technology to transform ideas into impactful digital products. Let's collaborate and bring visionary projects to life`;
+export const HERO_CONTENT = `Hi there! 👋 I'm Vidura, a Full Stack Developer passionate about crafting exceptional digital experiences. With 2 years of hands-on experience, I transform complex challenges into elegant solutions using React, Next.js, Node.js, and various database technologies.
+
+I specialize in building scalable web applications and POS systems that combine cutting-edge technology with intuitive user experiences. Whether it's architecting robust backend systems or creating seamless frontend interfaces, I'm dedicated to delivering solutions that make a real impact.
+
+Let's collaborate and turn your vision into reality! ✨`;
 
 export const ABOUT_TEXT = `I am a versatile Full Stack Developer and a Data Science student at SLIIT, passionate about building innovative and user-friendly web applications. With 5 years of experience, I’ve worked with technologies like React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB, solving complex problems and delivering impactful solutions.
 
