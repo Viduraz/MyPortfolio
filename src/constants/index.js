@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/bloddonation.png";
-import project6 from "../assets/rentoo.png";
+import project6 from "../assets/rento.png";
 
 export const HERO_CONTENT = `Hi there! 👋 I'm Vidura, a Full Stack Developer passionate about crafting exceptional digital experiences. With 2 years of hands-on experience, I transform complex challenges into elegant solutions using React, Next.js, Node.js, and various database technologies.
 
