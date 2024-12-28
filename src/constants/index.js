@@ -2,6 +2,8 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/bloddonation.png";
+import project6 from "../assets/rentoo.png";
 
 export const HERO_CONTENT = `Hi there! 👋 I'm Vidura, a Full Stack Developer passionate about crafting exceptional digital experiences. With 2 years of hands-on experience, I transform complex challenges into elegant solutions using React, Next.js, Node.js, and various database technologies.
 
@@ -72,6 +74,18 @@ export const PROJECTS = [
     description:
       "Jayasinghe Storelines offers electronics, furniture, and event floral services, focusing on quality and island-wide accessibility..",
     technologies: ["React", "HTML", "MongoDB", "Express", "Node.js", "Tailwind CSS", "JS"],
+  },
+  {
+    title: "Blood Donation Website",
+    image: project5,
+    description: "This is the first project in my university and I am the leader of the team. It includes 4 CRUD operations.",
+    technologies: ["HTML", "CSS", "PHP", "MySQL"],
+  },
+  {
+    title: "Car Rental Website",
+    image: project6,
+    description: "This is the second project in my university based on JAVA, and I am the leader of the team. It includes 5 CRUD operations.",
+    technologies: ["JAVA", "Eclipse", "IntelliJ", "MySQL Workbench", "CSS", "HTML"],
   },
 ];
 
