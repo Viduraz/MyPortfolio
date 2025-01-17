@@ -53,7 +53,7 @@ const NavBar = () => {
         </motion.a>
 
         <motion.a
-          href="https://mysliit-my.sharepoint.com/:b:/g/personal/it22075208_my_sliit_lk/ERDdk2G5hkdHpCtnJcO84CYBigg2m6pLOJzZHn15Hy3FZA?e=Mx9nst"
+          href="https://mysliit-my.sharepoint.com/:b:/g/personal/it22075208_my_sliit_lk/EXi5loG45nRMhl6htM-0Z3MB8_WtnH9n_IISOaERbv6cNg?e=gCEhcp"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 rounded-md bg-blue-600 px-4 py-2 text-white hover:bg-blue-700"
